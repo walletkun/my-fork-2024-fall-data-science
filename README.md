@@ -28,9 +28,9 @@ __All HWs are due at 12:01pm (noon) the day before the next class__
 
 ### Tuesdays Section
 * __Lead Instructor:__ Zack DeSario
-    * __Office Hours:__ Thursday's 01:00 PM - 02:00 PM 
+    * __Office Hours:__ Thursdays 01:00 PM - 02:00 PM
 * __TA:__  Hussam Marzooq
-    * __Office Hours__: Monday 12:00 PM - 01:00 PM
+    * __Office Hours__: Mondays 12:00 PM - 01:00 PM
 
 ### Wed Section
 * __Lead Instructor:__ Chris Glosser
@@ -40,7 +40,7 @@ __All HWs are due at 12:01pm (noon) the day before the next class__
 
 ### Friday 1230 Section
 * __Lead Instructor:__ Zack DeSario
-    * __Office Hours:__ Thursday's 1-2pm 
+    * __Office Hours:__ Thursdays 01:00 PM - 02:00 PM
 * __TA:__ Georgios Ioannou
     * Office Hours: Fridays 03:00 PM - 04:00 PM
 
