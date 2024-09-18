@@ -26,7 +26,7 @@ __All HWs are due at 12:01pm (noon) the day before the next class__
 ## Instructor / TA Info and Office Hours
 *To attend office hours, DM them Slack during their time slot and they will DM you back a private meeting link.*
 
-### Tuesdays Section
+### Tuesday Section
 * __Lead Instructor:__ Zack DeSario
     * __Office Hours:__ Thursdays 01:00 PM - 02:00 PM
 * __TA:__  Hussam Marzooq
