@@ -8,9 +8,9 @@
 ```
 Week 10 [Nov  04-08]: AI part 2 - RAGS 
 
-Week 11 [Nov  11-15]: 1hr Career Counselor // RAGS continued (or streamlit)
+Week 11 [Nov  11-15]: 1hr Career Counselor // Streamlit basics.
 
-Week 12 [Nov  18-22]: 1.5hrs Thinking Like a Data Scientist.  ***1hr Project Time*** 
+Week 12 [Nov  18-22]: 1.5hrs Deploying on HuggingFace the right way.  ***1hr Project Time*** 
 
 Week XX [Nov  25-29]: NO CLASS THIS WEEK
 
